@@ -9,3 +9,7 @@ Want to know more about me? 🧞‍♂️🪄 --> [Here you go!](https://www.goo
 The best way is to reach me on my mail📬: nikhiljsk98@gmail.com
 
 Cheers! 😎
+
+<p  align="left">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=nikhiljsk.nikhiljsk" alt="Visitor-Badge"/>
+</p>
